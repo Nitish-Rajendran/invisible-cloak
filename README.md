@@ -11,7 +11,7 @@ Create your own magical invisibility cloak just like Harry Potter, using Python 
   ```
 
 ## 🔧 Customize Color Range
-Modify lower_color and upper_color in the script to match your cloak's exact color in HSV format.
+Modify lower_color and upper_color in the script to match your cloak's exact color in HSV format in line 53 and 54.
 ### Example
 ```python
 lower_color = np.array([90, 50, 50])  # the lighter shade of your cloak
