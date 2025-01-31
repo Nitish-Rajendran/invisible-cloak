@@ -8,6 +8,7 @@ Create your own magical invisibility cloak just like Harry Potter, using Python 
 - OpenCV
   ```bash
   pip install opencv-python
+  ```
 
 ## Color Customization
 Choose your cloak color: [Color Picker](https://www.selecolor.com/en/hsv-color-picker/)
@@ -21,9 +22,12 @@ And replace it in the lower_col and upper_col
 ## Quick Start
 ```bash
 python invisible_cloak.py
+```
 
 ## Pro Tip
 - Wear a solid-colored cloak
 - Ensure good lighting
 - Press 'q' to quit the magic
+
+
 
